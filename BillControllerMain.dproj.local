@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.720,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\MenTrans.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.129,=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.610,=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.098,=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\Unit2.pas=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\MoneyUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.394,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\BillControllerMain.dproj=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\BillsController.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.509,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\WhoDoingTransDialogForm.pas=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.342,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\MenTrans.dfm=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.442,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\InsertUnit.pas=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.442,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\InsertUnit.dfm=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.342,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\MenTrans.pas=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.395,=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.330,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\CompanyTrans.dfm=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.330,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\CompanyTrans.pas=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.509,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\WhoDoingTransDialogForm.dfm=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.969,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\Unit2.dfm=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\MoneyUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.468,C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Project and Units\CompanyTrans.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.252,=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.127,=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.486,=C:\Users\Саня\Desktop\Рабочие файлы\КУРСОВОЙ ПРОЕКТ 1 курс 2020\CODE\На 10-ке\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
